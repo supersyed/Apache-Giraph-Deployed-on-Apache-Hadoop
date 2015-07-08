@@ -12,4 +12,4 @@ The Input format that is accpeted by Apache Giraph is JavaScriptObjectNotation(J
 
 #Solution : Wrote an algorithm that converts the input file in the simple edge list format to the JSON LongDoubleFloatDoubleVertexInputFormat.
 
-#Result : Ran the Single Source Shortest Path and Page Rank Algorithsm (inbuilt with Apache Giraph) and also wrote Vertex Count and Edge Count (wrote our own algorithm) on the same.
+#Result : Ran the Single Source Shortest Path and Page Rank Algorithms (inbuilt with Apache Giraph) and also wrote Vertex Count and Edge Count (wrote our own algorithm) on the same.
